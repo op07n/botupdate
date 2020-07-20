@@ -1,3 +1,5 @@
+Duplicate of https://github.com/botupdate/botupdate
+
 # Botupdate
 
 This is a dialogue-based defense against an existing Advanced Persistent Threat to both Human and Electronic Sentience. (AI /ES)
